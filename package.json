@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hk-skit/node-with-express/issues"
   },
-  "homepage": "https://github.com/hk-skit/node-with-express#readme"
+  "homepage": "https://github.com/hk-skit/node-with-express#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
