@@ -16,5 +16,5 @@ app.use((req, res) => {
 
 // Setup server at PORT.
 app.listen(PORT, () => {
-    console.log(`Server is running at ${PORT}`);
+  console.log(`Server is running at ${PORT}`);
 });
